@@ -11,7 +11,7 @@ int main()
  
    for ( c = 0 ; c < n ; c++ )
    {
-      if ( c <= 1 )
+      if ( c == 1 )
          next = c;
       else
       {
