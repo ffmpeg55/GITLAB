@@ -2,9 +2,9 @@
  
 int main()
 {
-   int n, i = 4, count, c;
+   int n, i = 40, count, c;
  
-   printf("Enter the number of prime numbers required\n");
+   printf("Enter the number of prime numbers \n");
    scanf("%d",&n);
  
    if ( n >= 10 )
