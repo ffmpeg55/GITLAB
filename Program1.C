@@ -4,10 +4,11 @@ int main()
 {
    int n, i = 40, count, c;
  
+
    printf("Insert the number of prime numbers \n");
    scanf("%d",&n);
  
-   if ( n != 10 )
+   if ( n == 10 )
    {
       printf("First %d prime numbers are :\n",n);
       printf("2\n");
